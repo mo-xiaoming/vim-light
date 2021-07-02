@@ -1,4 +1,4 @@
-hi clear Normal
+hi clear
 set background=dark
 
 hi clear
