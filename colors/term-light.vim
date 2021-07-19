@@ -9,6 +9,6 @@ endif
 
 let colors_name = "term-light"
 
-hi Comment ctermfg=2
+hi MatchParen ctermfg=white cterm=underline
 
 " vim: sw=2
